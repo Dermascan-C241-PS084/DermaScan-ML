@@ -30,7 +30,7 @@ The dataset used in this project is the [Skin-Disease-Dataset](https://www.kaggl
 The dataset is downloaded using kaggle API, extracted, and divided into training validation and test sets
 
 ## Model Architecture
-The model is a convolutional neural network (CNN) using transfer learning method with MobileNetV3.
+The model is a convolutional neural network (CNN) using transfer learning method with MobileNetV2.
 
 ## Training the Model
 The model is trained using callbacks like EarlyStopping, and TensorBoard to optimize performance and prevent overfitting.
@@ -39,11 +39,14 @@ The model is trained using callbacks like EarlyStopping, and TensorBoard to opti
 The model's performance is evaluated and visualized using Plotly. Graphs for loss and accuracy are plotted to understand the training and validation metrics over epochs.
 
 ## Accuracy
-![Alt text](Accuracy.png)
-The accuracy of this model is **96.12%**
+![Alt text](Test_Acc.png)
+- The Train accuracy of this model is **98.65%**
+- The Validation accuracy of this model is **96.17%**
+- The Test accuracy of this model is **97.00%**
 
 ## Training graphs
-![Alt text](plot.png)
+![Alt text](Accuracy.png)
+![Alt text](loss.png)
 
 ## Tensorboard
-TensorBoard logs, useful for detailed performance analysis, available under the **content** folder.
+TensorBoard logs, useful for detailed performance analysis, available under the **logs** folder.
