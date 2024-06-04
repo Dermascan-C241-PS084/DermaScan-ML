@@ -45,7 +45,7 @@ The model's performance is evaluated and visualized using Plotly. Graphs for los
 - The Test accuracy of this model is **97.00%**
 
 ## Training graphs
-![Alt text](Accuracy.png)
+![Alt text](accuracy.png)
 ![Alt text](loss.png)
 
 ## Tensorboard
