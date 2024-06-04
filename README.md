@@ -30,7 +30,7 @@ The dataset used in this project is the [Skin-Disease-Dataset](https://www.kaggl
 The dataset is downloaded using kaggle API, extracted, and divided into training validation and test sets
 
 ## Model Architecture
-The model is a convolutional neural network (CNN) using transfer learning method with MobileNetV2.
+The model is a convolutional neural network (CNN) using transfer learning method with MobileNetV3.
 
 ## Training the Model
 The model is trained using callbacks like EarlyStopping, and TensorBoard to optimize performance and prevent overfitting.
