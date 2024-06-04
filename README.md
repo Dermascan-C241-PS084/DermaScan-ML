@@ -6,7 +6,7 @@
 -  Aulia Muzhaffar (M322D4KY2577)
 - M. Ilhaam Ghiffari (M322D4KY3003)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1429wNLCv3KKwG5lS7YgD40YzhE92vIfJ?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uld6zatFkudzhmCOF5G_2ip-3V-MTwse?usp=sharing)
 
 ## Project Overview
 
